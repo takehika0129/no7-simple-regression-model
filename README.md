@@ -1,7 +1,7 @@
 # Build a Simple Regression Model in Python
 A Python script to build and evaluate a simple regression model using **California Housing dataset**. This script compares `LinearRegression` and `RandomForestRegressor` models.
 
-<img src="screenshot.png" alt="Regression Screenshot" width="256"/>
+<img src="screenshot.png" alt="Regression Screenshot" width="512"/>
 
 ## Usage
 Run the script to train and evaluate the models:
